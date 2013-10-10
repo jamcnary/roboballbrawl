@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "roboballbrawl", "roboballbrawl\roboballbrawl\roboballbrawl.csproj", "{5446B342-3871-4EEE-ADCA-74CC7DE803AF}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "roboballbrawlContent", "roboballbrawl\roboballbrawlContent\roboballbrawlContent.contentproj", "{B5821075-760E-47DC-8AF5-F4F6AA6B16B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5446B342-3871-4EEE-ADCA-74CC7DE803AF}.Debug|x86.ActiveCfg = Debug|x86
+		{5446B342-3871-4EEE-ADCA-74CC7DE803AF}.Debug|x86.Build.0 = Debug|x86
+		{5446B342-3871-4EEE-ADCA-74CC7DE803AF}.Release|x86.ActiveCfg = Release|x86
+		{5446B342-3871-4EEE-ADCA-74CC7DE803AF}.Release|x86.Build.0 = Release|x86
+		{B5821075-760E-47DC-8AF5-F4F6AA6B16B7}.Debug|x86.ActiveCfg = Debug|x86
+		{B5821075-760E-47DC-8AF5-F4F6AA6B16B7}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
